@@ -177,6 +177,10 @@ self.animation_timer.start(200)  # milliseconds
 - Test microphone in Windows settings
 - Speak clearly for better recognition
 
+### Screenshot
+- Create a folder named screenshot, there all the screenshot will be saved
+- make it all the other folders 
+
 ## 📝 License
 
 This project is open source and available under the MIT License.
